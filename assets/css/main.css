@@ -2535,29 +2535,29 @@ input, select, textarea {
 				font-size: 1.25em;
 			}
 
-				.wrapper.style1 .icon.major:before {
-					color: #5e42a6;
-				}
+                .wrapper.style1 .icon.major:before {
+                    color: #5e42a6;
+                }
 
-				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
-				}
+                .wrapper.style1-alt .icon.major:before {
+                    color: #493382;
+                }
 
-				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
-				}
+                .wrapper.style2 .icon.major:before {
+                    color: #5052b5;
+                }
 
-				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
-				}
+                .wrapper.style2-alt .icon.major:before {
+                    color: #3e4094;
+                }
 
-				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
-				}
+                .wrapper.style3 .icon.major:before {
+                    color: #b74e91;
+                }
 
-				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
-				}
+                .wrapper.style3-alt .icon.major:before {
+                    color: #953d75;
+                }
 
 /* Labeled Icons */
 
@@ -3296,15 +3296,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
-		}
-
-		.wrapper.style3 {
 			background-color: #494e57;
 		}
 
-		.wrapper.style3-alt {
+		.wrapper.style3 {
 			background-color: #2c3036;
+		}
+
+		.wrapper.style3-alt {
+			background-color: #202329;
 		}
 
 		.wrapper.fullscreen {
