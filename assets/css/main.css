@@ -2610,7 +2610,7 @@ input, select, textarea {
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				width: 50%;
 			}
 
 		.image.left {
@@ -3926,6 +3926,7 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.25em;
+            text-align: justify;/*added by WW*/
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3951,3 +3952,4 @@ input, select, textarea {
 			}
 
 		}
+
