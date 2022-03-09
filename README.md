@@ -31,6 +31,8 @@ you can use for pretty much whatever.
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 --------------------------------------------------------------------
-*Aug. 19th 2021* 
+**Aug. 19th 2021**
+
 I have adopted the original template and made a few changes for my personal webpage.
+
 Wuji Wang
