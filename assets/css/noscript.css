@@ -41,3 +41,9 @@
 		transform: none !important;
 		opacity: 1 !important;
 	}
+/*
+ visitor counting
+ */
+function websiteVisits(response) {
+    document.querySelector("#visits").textContent = response.value;
+}
