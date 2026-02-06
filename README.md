@@ -1,6 +1,6 @@
 ## Updates
 
-**Aug. 19th 2021**
+**Feb. 6th 2026**
 
 I have adopted the original template and made a few changes for my personal webpage.
 
